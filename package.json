@@ -1,0 +1,22 @@
+{
+  "name": "superclient",
+  "version": "1.0.0",
+  "description": "Extended discord.js client for advanced use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userterminal/SuperClient.git"
+  },
+  "author": "exists-js / userterminal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/userterminal/SuperClient/issues"
+  },
+  "homepage": "https://github.com/userterminal/SuperClient#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
